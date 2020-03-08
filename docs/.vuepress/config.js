@@ -15,6 +15,10 @@ module.exports = {
       ["/saude/", "Saúde"],
       ["/bancos/", "Bancos"],
       ["/telefone/", "Telefone"],
+      ["/transporte/", "Transporte"],
+      ["/carteira-de-motorista/", "Carteira de Motorista"],
+      ["/freelancing/", "Freelancing"],
+      ["/pets/", "Pets"]
     ],
     displayAllHeaders: true
   }
