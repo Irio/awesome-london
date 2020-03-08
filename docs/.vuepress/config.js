@@ -8,7 +8,8 @@ module.exports = {
       { text: "Sobre", link: "/sobre/" }
     ],
     sidebar: [
-      ["/", "Introdução"]
+      ["/", "Introdução"],
+      ["/visto/", "Visto"]
     ],
     displayAllHeaders: true
   }
