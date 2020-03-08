@@ -20,6 +20,10 @@ module.exports = {
       ["/freelancing/", "Freelancing"],
       ["/pets/", "Pets"]
     ],
-    displayAllHeaders: true
+    displayAllHeaders: true,
+    repo: "Irio/awesome-london",
+    docsDir: "docs",
+    editLinks: true,
+    editLinkText: "Edite esta página"
   }
 };
