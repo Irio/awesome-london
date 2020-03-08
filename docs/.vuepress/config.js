@@ -11,6 +11,7 @@ module.exports = {
     sidebar: [
       ["/", "Introdução"],
       ["/visto/", "Visto"],
+      ["/imovel/", "Imóvel"],
       ["/saude/", "Saúde"],
       ["/bancos/", "Bancos"],
       ["/telefone/", "Telefone"],
