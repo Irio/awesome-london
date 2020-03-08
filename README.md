@@ -1,6 +1,6 @@
 # awesome-london
 
 ```ssh
-$ npm install
-$ npm run docs:dev
+$ yarn install
+$ yarn run docs:dev
 ```
