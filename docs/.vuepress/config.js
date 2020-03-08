@@ -10,7 +10,8 @@ module.exports = {
     ],
     sidebar: [
       ["/", "Introdução"],
-      ["/visto/", "Visto"]
+      ["/visto/", "Visto"],
+      ["/bancos/", "Bancos"]
     ],
     displayAllHeaders: true
   }
