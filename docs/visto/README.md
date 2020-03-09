@@ -42,6 +42,6 @@ Com qualquer um dos dois status, você pode:
 * usar o serviço nacional de saúde (NHS) gratuitamente
 * estudar
 * usar recursos públicos como pensões e outros benefícios
-* viajar para dentro e fora do Reino Unido (com o status de **settled*, você pode permanecer 5 anos fora; caso contrário, são apenas 2 anos)
+* viajar para dentro e fora do Reino Unido (com o status de *settled*, você pode permanecer 5 anos fora; caso contrário, são apenas 2 anos)
 
 Detalhes podem ser encontrados [no site do governo](https://www.gov.uk/settled-status-eu-citizens-families).
