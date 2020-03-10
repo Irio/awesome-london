@@ -13,4 +13,4 @@ Existem quatro operadoras de telefone no Reino Unido. São elas:
 
 ## Referências
 
-* [https://www.techadvisor.co.uk/test-centre/broadband/best-phone-network-uk-3681692/](https://www.techadvisor.co.uk/test-centre/broadband/best-phone-network-uk-3681692/)
+* https://www.techadvisor.co.uk/test-centre/broadband/best-phone-network-uk-3681692/

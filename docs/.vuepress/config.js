@@ -25,5 +25,8 @@ module.exports = {
     docsDir: "docs",
     editLinks: true,
     editLinkText: "Edite esta página"
+  },
+  markdown: {
+    linkify: true
   }
 };
