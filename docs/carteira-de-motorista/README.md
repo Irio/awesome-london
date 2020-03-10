@@ -14,7 +14,7 @@ graph TB
 	tp --> licenca(Licença Integral)
 ```
 
-Sua licença será emitida pelo DVLA (*Driver and Vehicle Licensing Agency*), o DETRAN local. Para o teste prático, [você precisa ter morado em um dos países do Reino Unido por ao menos 185 dias nos últimos 12 meses](https://www.gov.uk/book-driving-test).
+Sua licença será emitida pelo DVLA (*Driver and Vehicle Licensing Agency*), o DETRAN local. Para o teste prático, você precisa ter morado em um dos países do Reino Unido por ao menos 185 dias nos últimos 12 meses. Nos primeiros 180 dias, você pode usar sua PID (Permissão Internacional para Dirigir) emitida no Brasil.
 
 ## Carteira Provisória
 
@@ -44,5 +44,7 @@ Imediatamente após a aprovação no teste prático, você já está autorizado 
 
 ## Referências
 
+* http://www.portalconsular.itamaraty.gov.br/carteira-de-habilitacao
+* https://g1.globo.com/go/goias/especial-publicitario/dr-multas/dicas-de-transito-direcao-segura/noticia/2020/01/31/descubra-quais-paises-exigem-a-pid-e-como-obter-a-sua.ghtml
 * https://www.gov.uk/learn-to-drive-a-car
 * https://www.gov.uk/browse/driving/driving-licences
