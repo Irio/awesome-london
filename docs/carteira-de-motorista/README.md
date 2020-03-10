@@ -8,7 +8,7 @@ title: Carteira de Motorista
 graph TB
 	inicio(Início) -- "£34" --> provisoria["Carteira Provisória"]
 	provisoria -- "£23" --> tt["Teste Teórico"]
-	provisoria -- "£?" --> aulas["Aulas Práticas"]
+	provisoria -- "£0+" --> aulas["Aulas Práticas"]
 	aulas -- "£23" --> tt
 	tt -- "£62-75" --> tp["Teste Prático"]
 	tp --> licenca(Licença Integral)
