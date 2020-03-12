@@ -9,6 +9,16 @@ module.exports = {
   },
   plugins: [
     ["@vuepress/google-analytics", { ga: "UA-150975956-2" }],
+    [
+      "@vuepress/last-updated",
+      {
+        transformer: (timestamp, lang) => {
+          const moment = require("moment");
+          moment.locale(lang);
+          return moment(timestamp).fromNow();
+        }
+      }
+    ],
     ["mermaidjs"]
   ],
   themeConfig: {
