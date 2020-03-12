@@ -12,10 +12,7 @@ module.exports = {
     ["mermaidjs"]
   ],
   themeConfig: {
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Sobre", link: "/sobre/" }
-    ],
+    nav: [{ text: "Home", link: "/" }, { text: "Sobre", link: "/sobre/" }],
     sidebar: [
       ["/", "Introdução"],
       ["/visto/", "Visto"],
