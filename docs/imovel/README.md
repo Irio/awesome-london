@@ -10,17 +10,17 @@ Vale também saber que proprietários de imóveis [devem seguir algumas regras](
 
 ## Para alugar/comprar
 
-* https://www.rightmove.co.uk/
-* https://www.zoopla.co.uk/
-* https://www.openrent.co.uk/
-* https://www.movebubble.com/
-* https://www.spareroom.co.uk/
-* https://www.gumtree.com/
-* https://www.shpock.com/
-* https://propcision.com/
-* https://avasa.ai/
+- https://www.rightmove.co.uk/
+- https://www.zoopla.co.uk/
+- https://www.openrent.co.uk/
+- https://www.movebubble.com/
+- https://www.spareroom.co.uk/
+- https://www.gumtree.com/
+- https://www.shpock.com/
+- https://propcision.com/
+- https://avasa.ai/
 
 ## Para comprar
 
-* https://proportunity.co/
-* https://lifetise.com/homefinder
+- https://proportunity.co/
+- https://lifetise.com/homefinder

@@ -14,11 +14,11 @@ graph TB
 	tp --> licenca(Licença Integral)
 ```
 
-Sua licença será emitida pelo DVLA (*Driver and Vehicle Licensing Agency*), o DETRAN local. Para o teste prático, você precisa ter morado em um dos países do Reino Unido por ao menos 185 dias nos últimos 12 meses. Nos primeiros 180 dias, você pode usar sua PID (Permissão Internacional para Dirigir) emitida no Brasil.
+Sua licença será emitida pelo DVLA (_Driver and Vehicle Licensing Agency_), o DETRAN local. Para o teste prático, você precisa ter morado em um dos países do Reino Unido por ao menos 185 dias nos últimos 12 meses. Nos primeiros 180 dias, você pode usar sua PID (Permissão Internacional para Dirigir) emitida no Brasil.
 
 ## Carteira Provisória
 
-Para ter aulas práticas (*driving lessons*) ou fazer o teste teórico (*theory test*), você precisa de uma carteira provisória (*provisional licence*). O custo varia dependendo da forma de como fará a aplicação: £34 se fizer online, £43 por correspondência. Fazendo o pedido online, você recebe a provisória por correspondência em uma semana.
+Para ter aulas práticas (_driving lessons_) ou fazer o teste teórico (_theory test_), você precisa de uma carteira provisória (_provisional licence_). O custo varia dependendo da forma de como fará a aplicação: £34 se fizer online, £43 por correspondência. Fazendo o pedido online, você recebe a provisória por correspondência em uma semana.
 
 ## Aulas Práticas
 
@@ -30,9 +30,9 @@ Em posse da carteira provisória, você tem autorização de dirigir acompanhado
 
 O teste teórico custa £23 e inclui perguntas nas seguintes categorias:
 
-* *The Highway Code*
-* *Know your traffic signs*
-* *Driving - the essential skills*
+- _The Highway Code_
+- _Know your traffic signs_
+- _Driving - the essential skills_
 
 ## Teste Prático
 
@@ -44,7 +44,7 @@ Imediatamente após a aprovação no teste prático, você já está autorizado 
 
 ## Referências
 
-* http://www.portalconsular.itamaraty.gov.br/carteira-de-habilitacao
-* https://g1.globo.com/go/goias/especial-publicitario/dr-multas/dicas-de-transito-direcao-segura/noticia/2020/01/31/descubra-quais-paises-exigem-a-pid-e-como-obter-a-sua.ghtml
-* https://www.gov.uk/learn-to-drive-a-car
-* https://www.gov.uk/browse/driving/driving-licences
+- http://www.portalconsular.itamaraty.gov.br/carteira-de-habilitacao
+- https://g1.globo.com/go/goias/especial-publicitario/dr-multas/dicas-de-transito-direcao-segura/noticia/2020/01/31/descubra-quais-paises-exigem-a-pid-e-como-obter-a-sua.ghtml
+- https://www.gov.uk/learn-to-drive-a-car
+- https://www.gov.uk/browse/driving/driving-licences
