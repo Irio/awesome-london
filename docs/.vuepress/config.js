@@ -36,7 +36,8 @@ module.exports = {
       ["/transporte/", "Transporte"],
       ["/carteira-de-motorista/", "Carteira de Motorista"],
       ["/freelancing/", "Freelancing"],
-      ["/pets/", "Pets"]
+      ["/pets/", "Pets"],
+      ["/noticias/", "Notícias"]
     ],
     displayAllHeaders: true,
     repo: "Irio/awesome-london",
